@@ -1,11 +1,11 @@
 <?php
 
-$str = "la plateforme"; //ex2
-$str2 = "Vive"; //ex2
-$str3 ="!"; //ex2
-$val = 6 ;//ex2_2
-//$myBool = true; //ex2_2_2
-$mybool = FALSE; //ex_2_3
+$str = "La plateforme"; 
+$str2 = "Vive"; 
+$str3 ="!"; 
+$val = 6 ;
+
+$mybool = false;
 echo "<br>";
 echo "$str2 $str $str3"; 
 echo "<br>";

@@ -1,4 +1,4 @@
 <?php
 
-$firstprint = "Hello LaPlateforme!";
+$firstprint = "Hello La Plateforme !";
 echo $firstprint;
